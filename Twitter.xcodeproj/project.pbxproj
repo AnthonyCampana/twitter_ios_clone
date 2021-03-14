@@ -16,6 +16,7 @@
 		EF01FE2225EC85750041553A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF01FE2125EC85750041553A /* LoginViewController.swift */; };
 		EF01FE2925ED19B40041553A /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF01FE2825ED19B40041553A /* HomeTableViewController.swift */; };
 		EF01FE2C25F173E90041553A /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF01FE2B25F173E90041553A /* TweetCellTableViewCell.swift */; };
+		EF90E9F425FB5A37007BFBDA /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF90E9F325FB5A37007BFBDA /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		EF01FE2125EC85750041553A /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		EF01FE2825ED19B40041553A /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		EF01FE2B25F173E90041553A /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
+		EF90E9F325FB5A37007BFBDA /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				EF01FE2125EC85750041553A /* LoginViewController.swift */,
 				EF01FE2825ED19B40041553A /* HomeTableViewController.swift */,
 				EF01FE2B25F173E90041553A /* TweetCellTableViewCell.swift */,
+				EF90E9F325FB5A37007BFBDA /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			files = (
 				EF01FE2925ED19B40041553A /* HomeTableViewController.swift in Sources */,
 				EF01FE2225EC85750041553A /* LoginViewController.swift in Sources */,
+				EF90E9F425FB5A37007BFBDA /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				EF01FE2C25F173E90041553A /* TweetCellTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
